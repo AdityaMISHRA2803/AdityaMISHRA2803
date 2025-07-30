@@ -17,7 +17,7 @@ I'm a final-year B.Tech student at IIIT Sonepat, deeply passionate about softwar
 
 ## 🚀 Featured Projects
 
-### 🩺 [DocMeet](https://github.com/AdityaMISHRA2803/docmeet)
+### 🩺 [DocMeet](https://github.com/AdityaMISHRA2803/DocMeet.git)
 > A smart appointment booking platform with medicine & diet tracking features  
 **Tech Used:** MERN Stack, JWT Auth, MongoDB  
 Built a responsive, secure system to help users manage medical appointments, track medication, and follow personalized diet plans.
