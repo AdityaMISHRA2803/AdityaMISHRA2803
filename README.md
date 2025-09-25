@@ -48,8 +48,9 @@
 ## 📈 GitHub Contribution Heatmap  
 
 <p align="center">
-  <img src="https://github.com/AdityaMISHRA2803/github-contribution-grid-snake/raw/main/output/github-contribution-grid.svg" alt="Contribution Grid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMISHRA2803&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 > ✅ **Note:** This is a static SVG generated from your contributions. It's reliable and displays well across GitHub.
 
