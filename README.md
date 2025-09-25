@@ -17,7 +17,7 @@ I'm a final-year B.Tech student at IIIT Sonepat, deeply passionate about softwar
 
 ## 🚀 Featured Projects
 
-### 💬 [YapYap-Chat](https://github.com/AdityaMISHRA2803/YapYap-Chat.git)
+### 💬 [YapYap-Chat](https://github.com/AdityaMISHRA2803/YapYap-Chat-.git)
 > A real-time messaging platform with authentication and WebSocket-powered live chat  
 **Tech Used:** MERN Stack, Socket.IO, Tailwind, JWT, bcrypt  
 YapYap-Chat delivers fast, secure, and interactive communication. It features real-time message exchange, online status indicators, chat persistence using MongoDB, and responsive design with daisyUI. Built with modular architecture and clean code separation.
