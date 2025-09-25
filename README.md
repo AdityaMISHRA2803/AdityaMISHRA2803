@@ -32,27 +32,32 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 🌐 My Portfolio  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMISHRA2803&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaMISHRA2803&theme=tokyonight&hide_border=true" height="160" />
+  <a href="https://aditya-mishra-portfolio-three.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFA6&center=true&width=600&lines=Check+Out+My+Portfolio!;Click+Here+to+See+My+Projects+%26+Skills+🚀" alt="Portfolio Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AdityaMISHRA2803&theme=react-dark&hide_border=true" height="150" />
+  <a href="https://aditya-mishra-portfolio-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-00BFA6?style=for-the-badge&logo=googlesite&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Contribution Heatmap  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMISHRA2803&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMISHRA2803&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMISHRA2803&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-
-> ✅ **Note:** This is a static SVG generated from your contributions. It's reliable and displays well across GitHub.
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AdityaMISHRA2803&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
