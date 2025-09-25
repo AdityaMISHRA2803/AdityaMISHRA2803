@@ -26,7 +26,7 @@
 
 ## 🏆 Highlights  
 
-- 🧠 Solved **200+ DSA problems** across LeetCode, GFG, CodeStudio  
+- 🧠 Solved **200+ DSA problems** across LeetCode, GFG & CodeStudio  
 - 🎯 Built **end-to-end full-stack apps** with modern tech stack  
 - ⚡ Passionate about **System Design & Scalable Applications**  
 
@@ -40,16 +40,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMISHRA2803&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=AdityaMISHRA2803&theme=react-dark&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 📈 GitHub Contribution Heatmap  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaMISHRA2803/AdityaMISHRA2803/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/AdityaMISHRA2803/github-contribution-grid-snake/raw/main/output/github-contribution-grid.svg" alt="Contribution Grid" />
 </p>
+
+> ✅ **Note:** This is a static SVG generated from your contributions. It's reliable and displays well across GitHub.
 
 ---
 
